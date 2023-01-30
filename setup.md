@@ -57,7 +57,8 @@ dataset. Instructions for doing this are below.
 The data used in this workshop are available on Zenodo. Please read the Zenodo 
 page linked below for information about the data and access to the data files. Because this workshop works 
 with real data, be aware that file sizes for the data are large.information 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4285900.svg)](https://doi.org/10.5281/zenodo.4285900)
+[![DOI]([https://zenodo.org/badge/DOI/10.5281/zenodo.6599284.svg](https://zenodo.org/badge/DOI/10.5281/zenodo.6599284.svg
+))](https://doi.org/10.5281/zenodo.6599284)
 
 More information about these data will be presented in the [first episode of the Data processing and visualization for metagenomics lesson](https://carpentries-incubator.github.io/metagenomics/01-background-metadata/index.html).
 
