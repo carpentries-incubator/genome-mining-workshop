@@ -1,5 +1,5 @@
 ---
-title: 'Reference'
+layout: 'Reference'
 ---
 
 Hello 
