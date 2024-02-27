@@ -57,7 +57,7 @@ Interested in teaching these materials? We have an
 | ------- | ---------- | ---------- |
 | [Introduction to the Command Line for Pangenomics](https://carpentries-incubator.github.io/shell-pangenomics/) | Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. | 4:00 hrs |
 | [Introduction to Python](https://carpentries-incubator.github.io/pangenomics-python/) | Learn the basics of the Python language. |01:00 hrs| 
-| [Genome Mining in Prokaryotes](https://carpentries-incubator.github.io/genome-mining/) |  Use command line and web-based tools for biosynthetic gene cluster prediction and organization.|04:30 hrs| 
+| [Genome Mining in Prokaryotes](https://carpentries-incubator.github.io/Genome-Mining/) |  Use command line and web-based tools for biosynthetic gene cluster prediction and organization.|04:30 hrs| 
 
 
 # Teaching Platform
