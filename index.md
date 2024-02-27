@@ -48,16 +48,16 @@ Interested in teaching these materials? We have an
 > describe the genetic repertoire of a species. 
 > All of the data used in this workshop can be downloaded from:
 >  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6599284.svg)](https://doi.org/10.5281/zenodo.6599284) 
-> More information about this data is available on the [Data page](https://czirion.github.io/comparative-genomics-workshop/data/index.html).
+> More information about this data is available on the [Data page](https://carpentries-incubator.github.io/pangenomics-workshop/data/index.html).
 {: .prereq} 
 
 # Workshop Overview 
 
 | Lesson    | Overview | Estimated time|
 | ------- | ---------- | ---------- |
-| [Introduction to the Command Line for Pangenomics](https://czirion.github.io/shell-pangenomics/) | Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. | 4:00 hrs |
-| [Introduction to Python](https://czirion.github.io/pangenomics-python/) | Learn the basics of the Python language. |01:00 hrs| 
-| [Genome Mining in Prokaryotes](https://axelramosgarcia.github.io/Genome-Mining/) |  Use command line and web-based tools for biosynthetic gene cluster prediction and organization.|04:30 hrs| 
+| [Introduction to the Command Line for Pangenomics](https://carpentries-incubator.github.io/shell-pangenomics/) | Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. | 4:00 hrs |
+| [Introduction to Python](https://carpentries-incubator.github.io/pangenomics-python/) | Learn the basics of the Python language. |01:00 hrs| 
+| [Genome Mining in Prokaryotes](https://carpentries-incubator.github.io/genome-mining/) |  Use command line and web-based tools for biosynthetic gene cluster prediction and organization.|04:30 hrs| 
 
 
 # Teaching Platform
