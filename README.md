@@ -10,7 +10,7 @@ Zenodo link:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6636296.svg)](
 
 Overview page of the Genome Mining Workshop that comprises the lessons:
 
-- [Genome Mining in Prokaryotes](https://carpentries-incubator.github.io/Genome-Mining/) [Repository](https://github.com/carpentries-incubator/Genome-Mining)
+- [Genome Mining in Prokaryotes](https://carpentries-incubator.github.io/genome-mining/) [Repository](https://github.com/carpentries-incubator/genome-mining)
 
 
 ## Code of Conduct
