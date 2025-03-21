@@ -3,7 +3,10 @@ Symbols:
   ❓ When there is information that needs to be verified  
   ✳️ When something needs to be developed
 
+## Funding 
+Thanks to PAPIIT IA106323 “Pan-cluster, herramientas de Big data para caracterización pangenómica de clústeres biosintéticos en microorganismos” for the funds provided that made the development of this lesson possible.
 
+## Links 
 Zenodo link:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6636296.svg)](https://doi.org/10.5281/zenodo.6636296)
 
 # Genome Mining Workshop Overview
@@ -31,6 +34,7 @@ Current maintainers of this lesson are
 * [Paulina Mayell Mejía Ponce](https://github.com/paumayell)
 * [Diego Garfias Gallegos](https://github.com/Bedxxe)
 * [Haydee Contreras]()
+* [Shaday Guerrero Flores]() 
 * [Aaron Jaime]()
 * [Abel Lovaco]()
 * [Shaday Flores]()
@@ -48,5 +52,3 @@ A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 ## Citation
 
 Please cite as:
-
-FIXME :anger:
